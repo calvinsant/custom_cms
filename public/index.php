@@ -2,12 +2,9 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Home Page</title>
+	<title>Document</title>
 </head>
-<body>	
-
-	<p>Initial commite</p>
-	<p>another commit</p>
+<body>
 	
 </body>
 </html>
